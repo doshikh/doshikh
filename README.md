@@ -7,9 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on flutter firebase project.
 - 🌱 I’m currently learning flutter web
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about begin with flutter
-- 📫 How to reach me: ...
+- 📫 How to reach me: https://www.linkedin.com/in/kdoshi2016/
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: i can watch movies on and on
