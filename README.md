@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 <a href="https://www.linkedin.com/in/kdoshi2016/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a> 
 
 <!--
 **doshikh/doshikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
